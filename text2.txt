@@ -1,2 +1,4 @@
 Ova e tekst 2
 Ova e promena vo text2
+
+Ova e uste edna promena vo text2
